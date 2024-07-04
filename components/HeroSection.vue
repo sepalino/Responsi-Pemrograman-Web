@@ -77,7 +77,7 @@
                       <h6 class="mb-0">Phone</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      (+62) 8953921243158
+                      (+62) 895392224931
                     </div>
                   </div>
                   <hr>
